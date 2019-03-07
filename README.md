@@ -54,7 +54,7 @@ Then restart Bot.
 [MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
 
 # Special thanks to
-[rizaumami](https://github.com/rizaumami) ([Telegram](https://telegram.me/kuncen))
+[rizaumami](https://github.com/rizaumami) ([Telhttps://telegram.me/kuncen))
 
 [Vysheng](https://github.com/Vysheng) ([Telegram](https://telegram.me/Vysheng))
 
@@ -66,4 +66,4 @@ More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlM
 
 ### Our Telegram channel:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
+[@Beyo
